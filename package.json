@@ -1,6 +1,6 @@
 {
   "name": "eleventy-plugin-airport-shortcode",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "An Eleventy plugin that adds an airport shortcode for displaying airport information with IATA codes",
   "main": "index.js",
   "type": "module",
